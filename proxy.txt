@@ -1,0 +1,3 @@
+http://190.98.162.22:8080
+
+# Add proxy here before launching script
